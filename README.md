@@ -1,4 +1,4 @@
-*** PLEASE USE V1 STL's. this initiwl version is not opimized****
+*** PLEASE USE V1 STL's. this initial version is not opimized****
 
 
 Howdy Y'all.

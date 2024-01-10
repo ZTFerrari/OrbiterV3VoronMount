@@ -1,3 +1,6 @@
+*** PLEASE USE V1 STL's. this initiwl version is not opimized****
+
+
 Howdy Y'all.
 
 I ordered an Orbiter V3 due to the awesome engineering and packaging without thinking much how I would mount it on my Voron 2.4R2 350 w/ TAP.  That said, here is a mound and fan setup that works although there are a few issues.

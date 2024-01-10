@@ -1,4 +1,7 @@
-*** PLEASE USE V1 STL's. this initial version is not opimized****
+*** PLEASE USE V1. @ https://github.com/ZTFerrari/OrbiterV3VoronMount/releases/tag/V1
+
+***
+
 
 
 Howdy Y'all.
